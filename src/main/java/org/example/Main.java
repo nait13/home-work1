@@ -61,7 +61,7 @@ public class Main {
         taskFive(26,8);
 
         // Задача 6
-        taskSix(3 , 5);
+        taskSix(3 , 6);
     }
 
 }
